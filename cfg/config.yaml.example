@@ -1,0 +1,6 @@
+host: "misskey.domain"
+emojiParameter:
+  license: "piyo"
+  isSensitive: false
+  localonly: false
+  category: "yakiniku"
